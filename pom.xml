@@ -11,7 +11,7 @@
 	<groupId>io.github.xfally</groupId>
 	<artifactId>eureka</artifactId>
 	<name>xfally-eureka</name>
-	<version>0.2.0</version>
+	<version>0.3.0</version>
 	<description>Eureka project for Spring Boot</description>
 
 	<properties>
