@@ -9,13 +9,13 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.github.xfally</groupId>
-	<artifactId>eureka</artifactId>
-	<name>xfally-eureka</name>
+	<artifactId>spring-eureka</artifactId>
+	<name>spring-eureka</name>
 	<version>0.3.0</version>
 	<description>Eureka project for Spring Boot</description>
 
 	<properties>
-        <image-name>xfally/eureka</image-name>
+        <image-name>xfally/spring-eureka</image-name>
         <image-tag>${project.version}</image-tag>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Hoxton.SR3</spring-cloud.version>
