@@ -1,4 +1,4 @@
-FROM java:8
+FROM java:8-alpine
 MAINTAINER pax coolwinding@gmail.com
 WORKDIR /
 COPY spring-eureka-0.4.3.jar /app.jar
